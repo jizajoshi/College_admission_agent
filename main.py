@@ -110,7 +110,7 @@ def get_saved_pdfs():
 
 
 # Main page
-st.title("🎓 Indala College")
+st.title("🏫 Indala College of Engineering")
 st.subheader("AI Admission Assistant")
 st.write(
     "Ask questions about courses, eligibility, fees, admission procedures "
