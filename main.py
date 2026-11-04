@@ -19,8 +19,8 @@ from ingest import (
 load_dotenv(dotenv_path=BASE_DIR / ".env", override=True)
 
 st.set_page_config(
-    page_title="Indala College | Admission Assistant",
-    page_icon="🎓",
+    page_title="Indala College of Engineering | Admission Assistant",
+    page_icon="🏫 ",
     layout="centered"
 )
 
